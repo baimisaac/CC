@@ -1,6 +1,6 @@
-# khansa AMROUNI
+# Ibrahim Isaac
 
-####  [khansaAmrouni.github.io] (https://khansaamrouni.github.io/)
+####  [baimisaac.github.io] (https://baimisaac.github.io/)
 
 
 Ibrahim Isaac is currently a software Engineering student, developer, forward thinker, and lifelong learner.
@@ -13,4 +13,4 @@ First time i started coding i decided to become a developer, a passionate develo
 
 --
 	
-&#x00A9; khansa Amrouni 
+&#x00A9; baimisaac 
